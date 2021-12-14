@@ -21,9 +21,6 @@
   --light: #acb5ac;
   --white: #fff;
 }
-html {
-  scroll-behavior: smooth;
-}
 .text-primary {
   color: var(--primary);
 }
