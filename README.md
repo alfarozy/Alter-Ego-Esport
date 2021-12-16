@@ -1,6 +1,10 @@
-# Alter-Ego-Esport
+## Alter-Ego-Esport
 
-Landing page team Alter Ego Esport,
+Landing page team Alter Ego Esport
+
+#### _To Do_
+- [ ] Responsive Design.
+- [ ] Fitur contact
 
 ## Navigasi
 - Home
