@@ -1,7 +1,9 @@
 ## Alter-Ego-Esport
 
 Landing page team Alter Ego Esport
-#### Demo [https://ae.alfarozy.id/]
+#### Demo 
+- Hosting [https://ae.alfarozy.id/]
+- Github pages [https://alfarozy.github.io/Alter-Ego-Esport/]
 #### _To Do_
 - [ ] Responsive Design.
 - [ ] Fitur contact
